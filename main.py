@@ -33,7 +33,7 @@ print("\nListado de estudiantes")
 1529924
 1500324
 1675223
-1555523
+print("Juan Angel Pastor")
 1596524
 1576224
 1603524
